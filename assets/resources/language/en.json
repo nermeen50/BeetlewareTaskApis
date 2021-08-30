@@ -1,0 +1,24 @@
+{
+    "Login_text":"Login",
+    "UserName_text":"User Name",
+    "Password_text":"Password",
+    "Required_userName":"* Required",
+    "Required_password":"Password should not be greater than 15 characters",
+    "Error_massage":"UserName or Password incorrect",
+    "Error_button":"Try Again",
+    "AppBar_title1":"Home",
+    "AppBar_title2":"Search",
+    "AppBar_title3":"Profile",
+    "Item1":"Sold Items",
+    "Item2":"Products",
+    "Card1_Name":"Add New Item",
+    "Card2_Name":"Search Item",
+    "Notification":"Notification",
+    "Setting":"Setting",
+    "Logout":"Logout",
+    "Sales":"Sales",
+    "Customer":"Customer",
+    "Offers":"Offers",
+    "Number_salses":"200"
+
+}

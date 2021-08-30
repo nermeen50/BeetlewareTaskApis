@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1027018762492",
+    "project_id": "beetlwareproject",
+    "storage_bucket": "beetlwareproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027018762492:android:55f19d90e7129410d38f79",
+        "android_client_info": {
+          "package_name": "com.example.beetleware_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027018762492-knrhb16rejv5k55udacsac6jm44pbe6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmww5vxQMSc-6vbowFwq828YEXKK7KEZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027018762492-knrhb16rejv5k55udacsac6jm44pbe6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

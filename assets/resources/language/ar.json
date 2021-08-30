@@ -1,0 +1,24 @@
+{
+    "Login_text":"تسجيل الدخول",
+    "UserName_text":"اسم المستخدم",
+    "Password_text":"الرقم السري",
+    "Required_userName":"مطلوب *",
+    "Required_password":"يجب ألا تزيد كلمة المرور عن 15 حرفًا",
+    "Error_massage":"اسم المستخدم او الرقم السري غير صحيح",
+    "Error_button":"حاول مره اخري",
+    "AppBar_title1":"الرئيسيه",
+    "AppBar_title2":"بحث",
+    "AppBar_title3":"الملف الشخصي",
+    "Item1":"البنود المباعة",
+    "Item2":"منتجات",
+    "Card1_Name":"أضف عنصر جديدة",
+    "Card2_Name":"بحث عن عنصر",
+    "Notification":"الاشعارات",
+    "Setting":"الاعدادات",
+    "Logout":"تسجيل الخروج",
+    "Sales":"المبيعات",
+    "Customer":"الزبائن",
+    "Offers":"العروض",
+    "Number_salses":"200"
+
+}
